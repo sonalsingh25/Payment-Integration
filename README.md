@@ -1,3 +1,3 @@
 # Payment-Integration
 
-Hosted on Git-Hub : https://sonal251001.github.io/Payment-Integration/
+Hosted on Git-Hub : https://sonalsingh25.github.io/Payment-Integration/
